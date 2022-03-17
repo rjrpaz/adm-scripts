@@ -4,6 +4,8 @@ Old set of scripts to do sysadmin tasks
 
 ## List of scripts
 
+*bajar-lynx.pl*: download objects from a list using lynx.
+
 *crypt.c*: encrypt a text using the same algorithm that is used by Linux os. You can compile the command like this:
 
 ```bash
